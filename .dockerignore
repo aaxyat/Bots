@@ -21,6 +21,7 @@ dist
 .env.test
 .env.production
 .clerk
+.neon
 
 # Version control & Agent files
 .git
