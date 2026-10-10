@@ -27,6 +27,9 @@ dist
 .gitignore
 .gitattributes
 .agents
+.agent
+AGENTS.md
+skills-lock.json
 
 # Testing & Coverage
 coverage
